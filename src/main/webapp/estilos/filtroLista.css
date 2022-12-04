@@ -1,0 +1,8 @@
+#lista a:hover { background: #fffed6; }
+#lista a.hide { display: none; }
+
+.list-group a{
+    color:#00649b;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
